@@ -4,7 +4,6 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: "暮月的 Leetcode 记录",
-  tagline: "Dinosaurs are cool",
   url: "https://duskmoon314.github.io",
   baseUrl: "/leetcode/",
   onBrokenLinks: "throw",
@@ -35,6 +34,7 @@ module.exports = {
     prism: {
       theme: lightCodeTheme,
       darkTheme: darkCodeTheme,
+      additionalLanguages: ["rust"],
     },
   },
   presets: [
