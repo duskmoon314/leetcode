@@ -20,7 +20,6 @@ module.exports = {
         src: "img/logo.png",
       },
       items: [
-        { to: "/blog", label: "Blog", position: "left" },
         {
           href: "https://github.com/duskmoon314/leetcode",
           label: "GitHub",
