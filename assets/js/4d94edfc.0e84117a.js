@@ -1,0 +1,1 @@
+(self.webpackChunkleetcode=self.webpackChunkleetcode||[]).push([[9377],{8657:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/leetcode/tags","slug":"/leetcode/tags/\u53cc\u6307\u9488","name":"\u53cc\u6307\u9488","count":5,"permalink":"/leetcode/tags/\u53cc\u6307\u9488"}')}}]);

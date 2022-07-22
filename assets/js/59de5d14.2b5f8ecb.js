@@ -1,0 +1,1 @@
+(self.webpackChunkleetcode=self.webpackChunkleetcode||[]).push([[1684],{8446:function(e){"use strict";e.exports=JSON.parse('{"permalink":"/leetcode/page/2","page":2,"postsPerPage":10,"totalPages":3,"totalCount":23,"previousPage":"/leetcode/","nextPage":"/leetcode/page/3","blogDescription":"Blog","blogTitle":"Duskmoon\'s leetcode solution"}')}}]);

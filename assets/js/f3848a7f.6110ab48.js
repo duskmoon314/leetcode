@@ -1,0 +1,1 @@
+(self.webpackChunkleetcode=self.webpackChunkleetcode||[]).push([[6973],{1799:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/leetcode/tags","slug":"/leetcode/tags/dfs","name":"DFS","count":1,"permalink":"/leetcode/tags/dfs"}')}}]);
